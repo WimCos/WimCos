@@ -22,7 +22,7 @@ agent systems hands-on.
 
 ## Featured work
 
-- **fi2p** - From Idea to Production:
+- **[fi2p](https://www.linkedin.com/posts/wimcos_the-complete-ai-development-pipeline-activity-7467490464108032000-l_wB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAT6JsBYykD2KGnc9T0ZFsnDqA_JsRGnY0)** - From Idea to Production:
   a reusable pipeline of 33 gated skills for coding agents. Plan before
   code, multi-agent review, security gates. Agent-agnostic: Claude
   Code, Codex, OpenCode, Gemini CLI.
